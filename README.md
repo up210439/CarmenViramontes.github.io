@@ -1,16 +1,17 @@
 # CarmenViramontes.github.io
 Clone de Google usando HTML5 Y CSS3 | Google Clone using HTML5 AND CSS3
-# ⚡Welcome to my repository⚡
+
+## Welcome to my repository⚡
 ***
 
-## Indice
-[1. Intro](INTRO)
+## Index
+[1. Intro](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#intro)
 
-[2. Construction](CONTRUCTION)
+[2. Construction](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#construction)
 
-[3. Objectives](OBJECTIVES)
+[3. Objectives](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#objectives)
 
-[4. Link al demo]()
+[4. Link to demo](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#link-to-demo)
 
 ***
 ## Intro🎬
@@ -32,4 +33,6 @@ The objectives of this project are to acquire proficiency in using HTML5 tags an
 
 ## Link to demo🤞🏻
 Click on the following link to view the project.
-* [Google cloning](https://github.com/up210439/Google-cloning.github.io/blob/main/Google/index.html))
+* [Google cloning](https://github.com/up210439/Google-cloning.github.io)
+
+[Return](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#index)
