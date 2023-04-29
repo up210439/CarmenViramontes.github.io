@@ -35,4 +35,4 @@ The objectives of this project are to acquire proficiency in using HTML5 tags an
 Click on the following link to view the project.
 * [Google cloning](Google-cloning.github.io)
 
-[Index](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#index)
+[Return ](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#welcome-to-my-repository)
