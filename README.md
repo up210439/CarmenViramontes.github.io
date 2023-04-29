@@ -1,4 +1,4 @@
-#Clone de Google usando HTML5 Y CSS3 | Google Clone using HTML5 AND CSS3
+# Clone de Google usando HTML5 Y CSS3 | Google Clone using HTML5 AND CSS3
 
 ## ⚡Welcome to my repository⚡
 ***
@@ -36,4 +36,5 @@ Click on the following link to view the project.
 
 [Return ](https://github.com/up210439/Google-cloning.github.io/edit/main/README.md#welcome-to-my-repository)
 
+# 🖐🏻
 
