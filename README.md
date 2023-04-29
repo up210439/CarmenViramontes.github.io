@@ -1,7 +1,6 @@
-# CarmenViramontes.github.io
-Clone de Google usando HTML5 Y CSS3 | Google Clone using HTML5 AND CSS3
+#Clone de Google usando HTML5 Y CSS3 | Google Clone using HTML5 AND CSS3
 
-## Welcome to my repository⚡
+## ⚡Welcome to my repository⚡
 ***
 
 ## Index
