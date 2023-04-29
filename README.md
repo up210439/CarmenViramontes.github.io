@@ -30,6 +30,6 @@ The project's main objective is to construct a replica of the primary Google int
 ## Objectives🦾
 The objectives of this project are to acquire proficiency in using HTML5 tags and CSS5 properties, and to explore various design options available for webpage creation.
 
-## Link to demo
+## Link to demo🤞🏻
 Click on the following link to view the project.
-* [Google cloning](https://dayanemtz.github.io/)
+* [Google cloning](https://github.com/up210439/Google-cloning.github.io/blob/main/Google/index.html))
