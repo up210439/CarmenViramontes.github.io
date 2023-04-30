@@ -1,0 +1,152 @@
+<!--DOCTYPE declaración de tipo aechivo HTML-->
+<!DOCTYPE html>
+<!--lang- Lenguaje del sitio-->
+<html lang="es">
+    <!--head - información para navegador-->
+    <head>
+       <title>Página CVCS</title>
+
+       <link rel="icon" href="imagenes/balon.png">
+       <!--conectar con css-->
+       <link rel="stylesheet" href="style.css">
+       <!--Agregar fuetes de google font-->
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Lora:ital,wght@1,500&family=Merriweather:wght@700&family=Roboto+Slab:wght@500&family=Schibsted+Grotesk:ital,wght@1,500&family=Tilt+Prism&display=swap" rel="stylesheet">
+    </head>
+
+    <!--body- Lo que ve el usuario-->
+    <body>
+        <!--Encabezados-->
+        <h1> <s>¡Hola, mundo!</s> </h1><!--s-- pone linea al centro del texto -->
+        <h2>¡Hola, mundo!</h2>
+        <h3>¡Hola, mundo!</h3>
+        <h4>¡Hola, mundo!</h4>
+        <h5>¡Hola, mundo!</h5>
+        <h6>¡Hola, mundo!</h6>
+
+    <!--Separación - PÁGINA WEB -->
+    <div align="center">
+    <h1 id="Basketball" class="título" >Basketball</h1>
+    <hr>
+    </div>
+
+    <!--División main -->
+    <main>
+        <div align="center">
+        <img src="/imagenes/jugador.png" alt="jugador">
+        <img src="/imagenes/balon.png" >
+        <img src="/imagenes/jugador.png" alt="jugador">
+        </div>
+        <hr>
+        <br>
+
+        <div align="center">
+        <!--imagen desde computadora  -->
+        <img src="/imagenes/html.png" width="360">
+        </br>
+        </div>
+
+        <!--LISTAS-->
+        <h3>Listas Basketball</h3>
+        <hr> <!--linea grafica -->
+        <!--p - elemento de párrafo -->
+        <p> <em>Listas hechas por Carmen Viramontes </em></p><!-- em --Cursivas -->
+        <!--Hacer división -->
+        <div>
+            <p><strong>El mundo del Basketball</strong></p><!--strong-- negritas -->
+            <!--Lista no ordenada  -->
+            <ul>
+                <li>NBA</li><!--item de la lista li*2 -->
+                <li>Cancha</li>
+                <li>Balón</li>
+            </ul><!--lista ordenada -->
+
+            <p> <strong>Cosas que se requieren en el Basketball</strong> </p>
+            <!--Lista ordenada -->
+            <ol>
+                <li>Altura</li>
+                <li>Buena condición fisica </li>
+                <li>Pasión</li>  
+            </ol><!--Lista ordenada  -->
+        </div>
+        <hr>
+        <!--Ancla links y conexión -->
+
+        <a href="#parrafo-1">Párrafo 1</a>
+        <br>
+        <a href="#parrafo-2">Párrafo 2</a>
+        <br>
+        <a href="#parrafo-3">Párrafo 3</a>
+
+        <!--Conexión con el párrafo  -->
+        <h3 id="parrafo-1">Párrafo 1</h3>
+        <p>
+            <strong>La importancia de tener una alimentación saludable </strong> 
+            Tener una buena salud es fundamental para poder realizar las actividades del día a día con energía. Una alimentación saludable nos ayudará a tener una vida sana.
+            Una alimentación saludable debe satisfacer nuestras necesidades y guardar un equilibrio. En la sociedad actual nos encontramos con una amplia y creciente variedad de alimentos entre los que elegir para alimentarnos. Ante esta variedad, sin embargo, muchas veces nos encontramos con la dificultad de elegir el más correcto para nuestra salud y la de nuestra familia. 
+            A veces esa amplia disponibilidad de alimentos nos lleva también a comer en exceso y elegir mal los nutrientes.
+        </p>
+
+        <h3 id="parrafo-2">Párrafo 2</h3>
+        <p>
+            Actividad física: una gran aliada de la salud mental
+            La práctica de la actividad física, proporciona una sensación de bienestar y relajación. Cuando nos ejercitamos, nuestro cuerpo libera endorfina, sustancia 
+            natural producida por el cerebro durante y después de la realización de alguna actividad física.
+            La liberación de endorfina, también conocida como “hormona de la alegría”, ayuda a relajarse, reduce el estrés, la ansiedad y mejora el estado de ánimo.
+        </p>
+
+        <h3 id="parrafo-3">Párrafo 3</h3>
+        <p>
+            El ejercicio físico es bueno para todas las partes del cuerpo, incluida la mente. El ejercicio mejora la salud del cerebro y el aprendizaje. Puede ayudar a las personas a dormir mejor. Cuando haces ejercicio, tu cuerpo produce sustancias químicas que te ayudan a sentirte bien. El ejercicio reduce las posibilidades de sufrir 
+            de depresión y disminuye los sentimientos de ansiedad. Además, el ejercicio puede darte una verdadera sensación de logro y orgullo por alcanzar metas, como dominar un nuevo paso de baile o batir un récord personal en 100 metros llanos.
+            El ejercicio físico ayuda a las personas a mantener un peso saludable y reducir el riesgo de algunas enfermedades. Hacer ejercicio regularmente puede ayudar a prevenir el aumento de peso, la diabetes tipo 2, las enfermedades cardíacas y la presión arterial alta. El ejercicio para fortalecer los huesos, como saltar, correr o levantar pesas, puede ayudar a mantener los huesos fuertes.
+        </p>
+
+        <!-- FORMULARIOS -->
+        <hr>
+
+        
+        <p>Puntaje de los tiros en Basketball</p>
+        <!-- name-- es para relacionar las opciones -->
+        <label for="1, 2 y 3"><!--crear opciones en formuario-->
+            <input name= "puntaje" type="radio">1, 2 y 3 <!--Crear opciones con seleccion checkbox y texto -->
+        </label>
+        <label for="3, 4 y 6"></label>
+            <input name= "puntaje" type="radio">3, 4 y 5
+        </label>
+        <label for="4"></label>
+            <input name = "puntaje" type="radio">Todas valor 4 
+        </label>
+
+        <!-- FORMULARIO DE CASILLAS DE VERIFICACIÓN -->
+        <p> <strong>¿Cúales equipos de Basketball conoces? </strong></p>
+        <!-- Opción 1-->
+        <label for="opcion1">
+            <input name= "equipos" type="checkbox"> Dallas
+        </label>
+        <br>
+        <label for="opcion2">
+            <input name="equipos" type="checkbox">Celtics
+        </label>
+        <br>
+        <label for="opcion3">
+            <input name="equipos" type="checkbox">Kings
+        </label>
+
+
+
+
+
+    </main>
+
+    <!-- pie de página -->
+    <footer>
+        <p>Página creada por Carmen en
+            <!-- elemento ancla para links--> 
+            <a href="http://127.0.0.1:5500/index.html">Página CVCS</a>
+
+        </p>
+    </footer>
+    </body>
+</html>

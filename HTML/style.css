@@ -1,0 +1,28 @@
+body{
+    /*Color de fondo*/
+    background-color:rgba(219, 179, 209, 0.952);
+    /*Color de letras*/
+    color:rgb(5, 5, 83);
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Schibsted Grotesk', sans-serif;
+
+    
+}
+p{
+    color:black;
+}
+/*para agregar clases, ponemos ,(.) antes de poner nombre*/
+.título {
+    color:rgb(209, 22, 78);
+}
+
+/* Si no lleva punto, no afectas todos los elementos */
+img{
+    width: 300px;
+    
+}
+
+.img-2{
+    width: 400px;
+}
